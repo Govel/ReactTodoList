@@ -5,8 +5,6 @@ import SearchPanel from '../search-panel';
 import TodoList from '../todo-list';
 import ItemStatusFilter from '../item-status-filter';
 
-import '../../index.css';
-
 const App = () => {
 
   const todoData = [
