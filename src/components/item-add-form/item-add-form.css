@@ -1,0 +1,8 @@
+.item-add-form {
+  margin-top: 10px;
+  justify-content: space-between;
+}
+
+.item-add-form input {
+  width: 75%;
+}
